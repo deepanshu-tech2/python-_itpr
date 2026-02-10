@@ -1,4 +1,4 @@
 message =" hi i am using python"
 print(message)
-print("hello");
+print("hello")
 
